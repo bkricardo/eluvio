@@ -1,3 +1,3 @@
 # eluvio
-
-My work can be found in eluvio_yuanpei.ipynb. Thanks for taking the time to review.
+The work is Coding Challenge Option 1 - Data Science/ML
+And it can be found in eluvio_yuanpei.ipynb. Thanks for taking the time to review.
